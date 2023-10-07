@@ -1,5 +1,5 @@
 # **Customer Support Website with OPENAI APIs**
-[Google Slides](https://docs.google.com/presentation/d/110wkdPLv1HxS2wEj5NBrm1Br9f2UYO70l4Yxp-dtXrE/edit?usp=sharing)
+[Google Slides](https://docs.google.com/presentation/d/1ZnbRJZG-zkMsA3IP-2rD7Rj64nMF3ItF/edit#slide=id.p1)
 
 ## **Introduction**
 
@@ -30,9 +30,6 @@ It includes the following improvements:
 #### *gpt-3.5-turbo-instruct*
 
 Similar capabilities as text-davinci-003 but compatible with legacy Completions endpoint and not Chat Completions.
-
-### Update 9/18/2023
-*Since text-davinci-003 model will be depreciated in 01/2024, I have replaced text-davinci-003 with gpt-3.5-turbo-instruct as recommended on [OpenAI website.](https://platform.openai.com/docs/deprecations)*
 
 
 <br>
