@@ -90,7 +90,7 @@ OpenAI charges based on tokens, so to minimize the cost of deveopment for this p
 4. Run ```$ python3 embedText.py``` to embed the data.
 
 5. Run ```$ flask run``` to test the project by asking questions about the testing data in browser. 
+<img width="481" alt="Screenshot 2023-03-19 211449" src="https://github.com/Julia-520/CustomerService_OpenAI/blob/main/image/Premium%20Price.jpg">
 
-<img width="481" alt="Screenshot 2023-03-19 211449" src="https://user-images.githubusercontent.com/54694766/228060541-47a04fdb-185f-474f-9de5-4954b2c27f6c.png">
 
 6. Once the project is working as desired, link your payment method on OpenAI and embed ```processed/scraped.csv``` then test project with ```$ flask run```.
